@@ -1,4 +1,4 @@
-# <img align="center" alt="Ricardo-C" height="40" width="40" src="https://img.icons8.com/color/344/portugal-circular.png"/> Hello, Iam Ricardo Cleto! <img align="center" alt="Ricardo-C" height="40" width="40" src="https://img.icons8.com/color/344/portugal-circular.png"/>
+# <img align="center" alt="Ricardo-C" height="40" width="40" src="https://img.icons8.com/color/344/portugal-circular.png"/> 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙞𝙘𝙖𝙧𝙙𝙤 𝘾𝙡𝙚𝙩𝙤! <img align="center" alt="Ricardo-C" height="40" width="40" src="https://img.icons8.com/color/344/portugal-circular.png"/>
 
 
 <div align="center">
