@@ -8,8 +8,13 @@
 </div>
  
 ##
-  
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
+
+↶ Languages I've worked with ↷
+
+<br>
+
   
   <img align="center" alt="Ricardo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
