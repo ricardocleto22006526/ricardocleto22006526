@@ -44,7 +44,7 @@
 
 </div>
   
-<br>
+<hr> 
   
 <a href="https://github.com/ricardocleto22006526?tab=repositories">
     <img height=28px src="https://komarev.com/ghpvc/?username=ricardocleto22006526&style=flat-square&color=blue" alt=""/>
